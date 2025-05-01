@@ -1,11 +1,11 @@
 # Ender‑3 V2 → 5‑Axis Upgrade (Klipper + BTT Octopus v1.1)
 
-> **Soon will be tested on:** Ender‑3 V2 frame, BigTreeTech **Octopus v1.1 (STM32F446ZET6)**, Raspberry Pi 4 Model B running **MainsailOS 1.1.1**
+> **Soon will be tested on:** Ender‑3 V2 frame with infinite Z axis, BigTreeTech **Octopus v1.1 (STM32F446ZET6)**, Raspberry Pi 4 Model B running **MainsailOS 1.1.1**
 
 ## Overview
-This repository ships a ready‑to‑use **`printer.cfg`** and helper macros that transform a humble **Creality Ender‑3 / Ender‑3 V2** into a compact **5‑axis research platform**. Two additional rotary axes **A & B** mount to the bed, enabling simultaneous 5‑axis toolpaths for CNC or experimental FFF printing—all driven by **Klipper** on an Octopus mainboard.
+This repository ships a ready‑to‑use **`printer.cfg`** and helper macros that transform a humble **Creality Ender‑3 / Ender‑3 V2** into a compact **5‑axis research platform with infinite Z axis for continous-uninterrupted manufacturing**. Two additional rotary axes **A & B** mount to the bed, enabling simultaneous 5‑axis toolpaths for CNC or experimental FFF printing—all driven by **Klipper** on an Octopus mainboard.
 
-![machine‑photo](docs/ender3‑5axis.jpg)
+![machine‑photo](ender3_5axis_infiniteZ.png)
 
 ---
 
