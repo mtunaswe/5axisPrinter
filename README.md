@@ -139,6 +139,4 @@ Pull requests welcome! Please run `pre‑commit` and document your hardware vari
 
 ---
 
-## License
-[MIT](LICENSE)
 
