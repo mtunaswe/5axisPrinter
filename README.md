@@ -134,9 +134,5 @@ Rapid 5‑axis moves can crash the tool into the bed or frame **very quickly**. 
 
 ---
 
-## Contributing
-Pull requests welcome! Please run `pre‑commit` and document your hardware variant.
-
----
 
 
